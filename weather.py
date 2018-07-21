@@ -4,7 +4,7 @@
 import ftime
 
 def weather():
-    city = "Berlin"
+    city = "Munich"
     print("Here is {}".format(city))
 	print("Current date and time are {}".format(ftime.today()))
 
